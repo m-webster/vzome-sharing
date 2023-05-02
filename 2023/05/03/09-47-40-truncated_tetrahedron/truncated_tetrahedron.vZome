@@ -1,0 +1,1595 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="20" field="golden" version="7.1">
+  <EditHistory editNumber="1539" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -2 -4 0 0" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 0 0 0 0" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 0 0 2 4" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 2 4 4 8" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 0 0 2 4" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <SelectManifestation point="4 8 0 0 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="4 8 0 0 4 8" startSegment="2 4 2 4 4 8"/>
+    <Delete/>
+    <StrutCreation anchor="2 4 -2 -4 4 8" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 0 0 6 12" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 0 0 0 0" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 -2 -4 4 8" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 -4 -8 4 8" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -4 -8 2 4" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <SelectManifestation point="-4 -8 -2 -4 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="-4 -8 -2 -4 2 4" startSegment="-4 -8 0 0 0 0"/>
+    <Delete/>
+    <StrutCreation anchor="-2 -4 -4 -8 2 4" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 -4 -8 4 8" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 -4 -8 4 8" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 2 4 0 0" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 2 4 4 8" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 4 8 4 8" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 4 8 2 4" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 4 8 4 8" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 4 8 4 8" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 4 8 4 8" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 2 4 4 8" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 0 0 0 0" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 0 0 2 4" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 -2 -4 4 8" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 2 4 4 8" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 0 0 6 12" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 0 0 6 12" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 0 0 8 16" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 4 8 6 12" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 0 0 8 16" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -4 -8 6 12" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -2 -4 8 16" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 2 4 8 16" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 8 16" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -4 -2 -4 8 16"/>
+    <SelectManifestation point="-2 -4 2 4 0 0"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <StrutCreation anchor="2 4 -2 -4 4 8" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 -4 -8 4 8" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 -4 -8 4 8" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 -4 -8 4 8" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 0 0 6 12" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -4 -8 6 12" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 0 0 8 16" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 8 16" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 0 0 8 16" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -4 -8 6 12" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -6 -12 8 16" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 -8 -16 8 16" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 -6 -12 4 8" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -2 -4 8 16" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -4 -8 10 20" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 0 0 10 20" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -4 -8 10 20" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 12 24" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <SelectManifestation endSegment="-2 -4 -2 -4 12 24" startSegment="-2 -4 -4 -8 10 20"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 -2 -4 12 24"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -2 -4 12 24" startSegment="0 0 0 0 12 24"/>
+    <Delete/>
+    <SelectManifestation point="0 0 0 0 12 24"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 0 0 12 24" startSegment="2 4 0 0 10 20"/>
+    <Delete/>
+    <StrutCreation anchor="2 4 0 0 10 20" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -4 -8 10 20" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 -2 -4 12 24" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 -4 -8 12 24" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 -8 -16 8 16" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 -4 -8 12 24" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 -8 -16 10 20" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <SelectManifestation endSegment="-2 -4 -6 -12 12 24" startSegment="0 0 -4 -8 12 24"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 -6 -12 12 24"/>
+    <Delete/>
+    <StrutCreation anchor="2 4 -8 -16 6 12" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 -8 -16 10 20" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 -8 -16 8 16" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -4 -8 6 12" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -6 -12 8 16" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -2 -4 8 16" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -4 -8 10 20" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 -2 -4 12 24" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 -6 -12 12 24" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 2 4 8 16" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 4 8 10 20" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 4 8 12 24" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 0 0 10 20" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 0 0 8 16" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 0 0 10 20" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 2 4 12 24" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 4 8 10 20" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -4 -8 10 20" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 -4 -8 12 24" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 0 0 10 20" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 -2 -4 12 24" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 2 4 12 24" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 -2 -4 12 24" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 0 0 14 28" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 -4 -8 12 24" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 0 0 10 20" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 -4 -8 12 24" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <SelectManifestation point="-4 -8 0 0 12 24"/>
+    <Delete/>
+    <SelectManifestation endSegment="-4 -8 0 0 12 24" startSegment="-6 -12 0 0 10 20"/>
+    <Delete/>
+    <StrutCreation anchor="-2 -4 -4 -8 14 28" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -2 -4 16 32" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 0 0 14 28" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 16 32" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 4 8 12 24" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 2 4 16 32" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 4 8 14 28" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 2 4 16 32" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -2 -4 16 32" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 0 0 16 32" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -6 -12 8 16" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 -8 -16 8 16" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 -8 -16 10 20" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 -4 -8 12 24" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 -4 -8 4 8" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 -6 -12 4 8" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 -8 -16 6 12" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 -8 -16 8 16" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 -8 -16 10 20" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 0 0 10 20" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 0 0 6 12" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-8 -16 0 0 8 16" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -2 -4 8 16" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 -2 -4 4 8" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-8 -16 -4 -8 4 8" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation point="-8 -16 -6 -12 6 12"/>
+    <SelectManifestation endSegment="-8 -16 -6 -12 6 12" startSegment="-8 -16 -4 -8 4 8"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="-6 -12 -6 -12 4 8" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation point="-12 -24 -2 -4 6 12"/>
+    <SelectManifestation endSegment="-12 -24 -2 -4 6 12" startSegment="-10 -20 -2 -4 8 16"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="-10 -20 -2 -4 8 16" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -4 -8 6 12" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -2 -4 8 16" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -4 -8 10 20" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 -2 -4 12 24" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -4 -8 10 20" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -4 -8 6 12" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-8 -16 -8 -16 8 16" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-8 -16 -4 -8 12 24" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -4 -8 10 20" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 -4 -8 12 24" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -4 -8 14 28" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -4 -8 14 28" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -4 -8 14 28" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -2 -4 16 32" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -4 -8 18 36" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -4 -8 6 12" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 -4 -8 4 8" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -4 -8 2 4" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -4 -8 2 4" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -4 -8 2 4" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -6 -12 0 0" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -2 -4 0 0" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -4 -8 2 4" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -6 -12 0 0" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -2 -4 0 0" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -4 -8 14 28" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -2 -4 16 32" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -6 -12 16 32" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -4 -8 6 12" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-8 -16 -4 -8 4 8" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -4 -8 2 4" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -4 -8 2 4" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -4 -8 2 4" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -2 -4 0 0" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -4 -8 -2 -4" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -4 -8 10 20" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-8 -16 -4 -8 12 24" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -4 -8 14 28" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -4 -8 14 28" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -4 -8 14 28" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -6 -12 16 32" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -2 -4 16 32" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 0 0 14 28" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 0 0 16 32" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 0 0 18 36" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 0 0 2 4" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 0 0 0 0" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 0 0 -2 -4" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 0 0 2 4" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 0 0 0 0" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 0 0 14 28" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 0 0 16 32" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 16 32" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-8 -16 0 0 16 32" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-8 -16 0 0 16 32" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -2 -4 16 32" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 2 4 16 32" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 0 0 16 32" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 0 0 16 32" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 2 4 16 32" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -2 -4 16 32" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -6 -12 16 32" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -6 -12 16 32" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-8 -16 -8 -16 16 32" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-12 -24 -8 -16 16 32" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -6 -12 16 32" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -6 -12 16 32" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 -8 -16 16 32" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 -8 -16 16 32" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 -8 -16 8 16" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 -8 -16 8 16" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 -8 -16 16 32" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-8 -16 -8 -16 16 32" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-8 -16 -8 -16 16 32" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 -8 -16 14 28" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 -6 -12 12 24" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 -8 -16 14 28" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 -8 -16 10 20" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 -8 -16 6 12" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 -6 -12 4 8" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 -10 -20 4 8" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 -8 -16 2 4" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-8 -16 -8 -16 0 0" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 -8 -16 -2 -4" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 -8 -16 0 0" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -6 -12 8 16" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-12 -24 -8 -16 8 16" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -8 -16 6 12" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -6 -12 0 0" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-8 -16 -8 -16 8 16" startSegment="-10 -20 -8 -16 6 12"/>
+    <SelectManifestation point="-10 -20 -8 -16 6 12"/>
+    <SelectManifestation endSegment="-10 -20 -8 -16 6 12" startSegment="-12 -24 -8 -16 8 16"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-10 -20 -8 -16 6 12" startSegment="-12 -24 -8 -16 8 16"/>
+    <SelectManifestation point="-10 -20 -8 -16 6 12"/>
+    <SelectManifestation endSegment="-8 -16 -8 -16 8 16" startSegment="-10 -20 -8 -16 6 12"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-12 -24 -8 -16 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="-12 -24 -8 -16 8 16" startSegment="-10 -20 -6 -12 8 16"/>
+    <Delete/>
+    <StrutCreation anchor="2 4 -8 -16 10 20" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 -6 -12 12 24" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 -10 -20 12 24" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 -8 -16 14 28" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 -8 -16 14 28" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 -8 -16 16 32" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 -8 -16 18 36" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 -8 -16 6 12" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 -10 -20 4 8" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 -6 -12 4 8" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 -8 -16 2 4" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 -8 -16 2 4" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 -8 -16 0 0" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 -8 -16 0 0" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -6 -12 0 0" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 -8 -16 0 0" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -10 -20 0 0" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -6 -12 0 0" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-8 -16 -8 -16 0 0" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -10 -20 0 0" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-12 -24 -8 -16 0 0" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 -8 -16 0 0" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -6 -12 0 0" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="8 16 -8 -16 0 0" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 -8 -16 0 0" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -2 -4 0 0" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 0 0 0 0" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -2 -4 0 0" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="8 16 0 0 0 0" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 2 4 4 8" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 4 8 4 8" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 4 8 4 8" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 4 8 4 8" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 4 8 6 12" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="8 16 4 8 4 8" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 4 8 4 8" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 0 0 8 16" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -2 -4 8 16" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="8 16 0 0 8 16" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 2 4 8 16" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 2 4 0 0" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 4 8 2 4" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 2 4 0 0" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 4 8 -2 -4" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 -8 -16 16 32" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -6 -12 16 32" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -6 -12 16 32" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="8 16 -8 -16 16 32" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -6 -12 8 16" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="8 16 -8 -16 8 16" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -10 -20 8 16" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 -8 -16 8 16" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation point="6 12 -12 -24 10 20"/>
+    <SelectManifestation endSegment="6 12 -12 -24 10 20" startSegment="6 12 -10 -20 8 16"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="0 0 4 8 12 24" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 6 12 12 24" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 4 8 12 24" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 4 8 12 24" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 4 8 14 28" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 4 8 12 24" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 4 8 10 20" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 4 8 12 24" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 6 12 12 24" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 2 4 12 24" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-8 -16 4 8 12 24" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-8 -16 4 8 12 24" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 4 8 14 28" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 4 8 10 20" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 2 4 16 32" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 2 4 8 16" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 2 4 16 32" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 4 8 6 12" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 6 12 8 16" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 4 8 14 28" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 6 12 16 32" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 2 4 16 32" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 4 8 10 20" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 4 8 6 12" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 4 8 2 4" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 6 12 0 0" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 2 4 0 0" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 4 8 14 28" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 2 4 16 32" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 4 8 18 36" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 4 8 14 28" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 2 4 16 32" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 4 8 18 36" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 4 8 10 20" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 4 8 10 20" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 6 12 8 16" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 2 4 8 16" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 4 8 6 12" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-12 -24 4 8 4 8" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-12 -24 6 12 2 4" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-12 -24 6 12 2 4" startSegment="-12 -24 4 8 4 8"/>
+    <SelectManifestation point="-12 -24 6 12 2 4"/>
+    <DeselectAll/>
+    <SelectManifestation point="-10 -20 6 12 4 8"/>
+    <SelectManifestation endSegment="-10 -20 6 12 4 8" startSegment="-12 -24 6 12 2 4"/>
+    <SelectManifestation endSegment="-12 -24 6 12 2 4" startSegment="-12 -24 4 8 4 8"/>
+    <SelectManifestation point="-12 -24 6 12 2 4"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="-10 -20 4 8 6 12" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-8 -16 4 8 4 8" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 4 8 2 4" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 4 8 2 4" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 2 4 0 0" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 4 8 -2 -4" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 6 12 0 0" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -2 -4 8 16" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-12 -24 0 0 8 16" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 2 4 8 16" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 -2 -4 0 0" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-12 -24 0 0 0 0" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 2 4 0 0" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-8 -16 0 0 0 0" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 2 4 4 8" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 4 8 4 8" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-8 -16 4 8 4 8" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="6 12 6 12 16 32" startSegment="6 12 4 8 14 28"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="6 12 4 8 18 36" startSegment="6 12 6 12 16 32"/>
+    <SelectManifestation endSegment="6 12 6 12 16 32" startSegment="6 12 4 8 14 28"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="6 12 4 8 18 36" startSegment="6 12 2 4 16 32"/>
+    <SelectManifestation endSegment="6 12 4 8 14 28" startSegment="6 12 2 4 16 32"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="6 12 6 12 16 32" startSegment="6 12 4 8 14 28"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 4 8 18 36" startSegment="6 12 6 12 16 32"/>
+    <Delete/>
+    <SelectManifestation point="6 12 6 12 16 32"/>
+    <Delete/>
+    <SelectManifestation point="6 12 4 8 18 36"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 4 8 18 36" startSegment="6 12 2 4 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 4 8 14 28" startSegment="6 12 2 4 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -2 -4 16 32" startSegment="6 12 -4 -8 14 28"/>
+    <Delete/>
+    <SelectManifestation endSegment="8 16 0 0 16 32" startSegment="6 12 -2 -4 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -4 -8 18 36" startSegment="6 12 -2 -4 16 32"/>
+    <Delete/>
+    <SelectManifestation point="6 12 -4 -8 18 36"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -6 -12 16 32" startSegment="6 12 -4 -8 18 36"/>
+    <Delete/>
+    <SelectManifestation point="6 12 -6 -12 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -6 -12 16 32" startSegment="6 12 -4 -8 14 28"/>
+    <Delete/>
+    <SelectManifestation point="8 16 0 0 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="8 16 0 0 16 32" startSegment="6 12 2 4 16 32"/>
+    <Delete/>
+    <SelectManifestation point="8 16 -8 -16 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="4 8 -8 -16 16 32" startSegment="2 4 -8 -16 18 36"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -10 -20 16 32" startSegment="8 16 -8 -16 16 32"/>
+    <Delete/>
+    <SelectManifestation point="2 4 -8 -16 18 36"/>
+    <Delete/>
+    <SelectManifestation endSegment="4 8 -8 -16 16 32" startSegment="6 12 -6 -12 16 32"/>
+    <Delete/>
+    <SelectManifestation point="4 8 -8 -16 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 -8 -16 18 36" startSegment="0 0 -8 -16 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 -8 -16 18 36" startSegment="-4 -8 -8 -16 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="4 8 -8 -16 16 32" startSegment="2 4 -8 -16 14 28"/>
+    <Delete/>
+    <SelectManifestation point="-8 -16 -8 -16 16 32"/>
+    <Delete/>
+    <SelectManifestation point="-6 -12 -8 -16 14 28"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 -8 -16 14 28" startSegment="2 4 -6 -12 12 24"/>
+    <Delete/>
+    <SelectManifestation endSegment="-10 -20 -10 -20 16 32" startSegment="-12 -24 -8 -16 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 -8 -16 14 28" startSegment="2 4 -10 -20 12 24"/>
+    <Delete/>
+    <SelectManifestation point="2 4 -10 -20 12 24"/>
+    <Delete/>
+    <SelectManifestation point="-10 -20 -10 -20 16 32"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 -10 -20 16 32"/>
+    <Delete/>
+    <SelectManifestation point="6 12 -10 -20 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -10 -20 16 32" startSegment="0 0 -8 -16 16 32"/>
+    <Delete/>
+    <SelectManifestation point="2 4 -8 -16 14 28"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 -8 -16 18 36" startSegment="-8 -16 -8 -16 16 32"/>
+    <Delete/>
+    <SelectManifestation point="0 0 -8 -16 16 32"/>
+    <Delete/>
+    <SelectManifestation point="-4 -8 -8 -16 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="-4 -8 -8 -16 16 32" startSegment="-6 -12 -8 -16 14 28"/>
+    <Delete/>
+    <SelectManifestation point="-6 -12 -8 -16 18 36"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 -8 -16 16 32" startSegment="2 4 -8 -16 14 28"/>
+    <Delete/>
+    <SelectManifestation point="-12 -24 -8 -16 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 -10 -20 12 24" startSegment="-6 -12 -8 -16 14 28"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 -10 -20 12 24" startSegment="2 4 -8 -16 10 20"/>
+    <Delete/>
+    <SelectManifestation point="2 4 -8 -16 10 20"/>
+    <Delete/>
+    <SelectManifestation point="8 16 -8 -16 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 -8 -16 10 20" startSegment="0 0 -8 -16 8 16"/>
+    <Delete/>
+    <SelectManifestation point="4 8 -8 -16 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -10 -20 8 16" startSegment="4 8 -8 -16 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 -10 -20 12 24" startSegment="-6 -12 -8 -16 10 20"/>
+    <Delete/>
+    <SelectManifestation point="-6 -12 -10 -20 12 24"/>
+    <Delete/>
+    <SelectManifestation point="6 12 -10 -20 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -10 -20 8 16" startSegment="8 16 -8 -16 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="4 8 -8 -16 8 16" startSegment="2 4 -8 -16 10 20"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 -6 -12 12 24" startSegment="-6 -12 -8 -16 10 20"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 -6 -12 12 24" startSegment="2 4 -8 -16 10 20"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 -8 -16 14 28" startSegment="-6 -12 -6 -12 12 24"/>
+    <Delete/>
+    <SelectManifestation point="2 4 -8 -16 6 12"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 -10 -20 4 8" startSegment="2 4 -8 -16 6 12"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 -8 -16 2 4" startSegment="2 4 -10 -20 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 -8 -16 2 4" startSegment="-6 -12 -10 -20 4 8"/>
+    <Delete/>
+    <SelectManifestation point="2 4 -10 -20 4 8"/>
+    <Delete/>
+    <SelectManifestation point="-6 -12 -10 -20 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 -10 -20 4 8" startSegment="-6 -12 -8 -16 6 12"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 -8 -16 6 12" startSegment="-6 -12 -6 -12 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 -8 -16 6 12" startSegment="2 4 -6 -12 4 8"/>
+    <Delete/>
+    <SelectManifestation point="-6 -12 -8 -16 6 12"/>
+    <Delete/>
+    <SelectManifestation endSegment="4 8 -8 -16 8 16" startSegment="2 4 -8 -16 6 12"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 -8 -16 6 12" startSegment="-4 -8 -8 -16 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 -8 -16 6 12" startSegment="0 0 -8 -16 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="-8 -16 -8 -16 8 16" startSegment="-6 -12 -8 -16 6 12"/>
+    <Delete/>
+    <SelectManifestation point="-4 -8 -8 -16 8 16"/>
+    <Delete/>
+    <SelectManifestation point="0 0 -8 -16 8 16"/>
+    <Delete/>
+    <SelectManifestation point="-8 -16 -8 -16 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 -8 -16 8 16" startSegment="-2 -4 -6 -12 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -6 -12 8 16" startSegment="4 8 -8 -16 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="8 16 -8 -16 8 16" startSegment="6 12 -6 -12 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="-4 -8 -8 -16 8 16" startSegment="-2 -4 -6 -12 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="-10 -20 -6 -12 8 16" startSegment="-8 -16 -8 -16 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 -8 -16 10 20" startSegment="-4 -8 -8 -16 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="-8 -16 -8 -16 8 16" startSegment="-6 -12 -8 -16 10 20"/>
+    <Delete/>
+    <SelectManifestation point="-6 -12 -8 -16 10 20"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -10 -20 8 16" startSegment="0 0 -8 -16 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -10 -20 8 16" startSegment="-4 -8 -8 -16 8 16"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 -10 -20 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 -8 -16 14 28" startSegment="-8 -16 -8 -16 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="-12 -24 -8 -16 16 32" startSegment="-10 -20 -6 -12 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="-8 -16 -8 -16 16 32" startSegment="-10 -20 -6 -12 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="-4 -8 -8 -16 16 32" startSegment="-2 -4 -6 -12 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 -8 -16 16 32" startSegment="-2 -4 -6 -12 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="8 16 -8 -16 16 32" startSegment="6 12 -6 -12 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -10 -20 16 32" startSegment="4 8 -8 -16 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 -8 -16 0 0" startSegment="2 4 -8 -16 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="4 8 -8 -16 0 0" startSegment="2 4 -8 -16 2 4"/>
+    <Delete/>
+    <SelectManifestation point="8 16 -8 -16 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -10 -20 0 0" startSegment="8 16 -8 -16 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -10 -20 0 0" startSegment="4 8 -8 -16 0 0"/>
+    <Delete/>
+    <SelectManifestation point="4 8 -8 -16 0 0"/>
+    <Delete/>
+    <SelectManifestation point="0 0 -8 -16 0 0"/>
+    <Delete/>
+    <SelectManifestation point="-4 -8 -8 -16 0 0"/>
+    <Delete/>
+    <SelectManifestation point="-8 -16 -8 -16 0 0"/>
+    <Delete/>
+    <SelectManifestation point="-12 -24 -8 -16 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 -8 -16 -2 -4" startSegment="4 8 -8 -16 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 -8 -16 -2 -4" startSegment="0 0 -8 -16 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-4 -8 -8 -16 0 0" startSegment="-6 -12 -8 -16 -2 -4"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 -8 -16 0 0" startSegment="-2 -4 -10 -20 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 -8 -16 2 4" startSegment="-4 -8 -8 -16 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-8 -16 -8 -16 0 0" startSegment="-6 -12 -8 -16 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="8 16 -8 -16 0 0" startSegment="6 12 -6 -12 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -6 -12 0 0" startSegment="4 8 -8 -16 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 -8 -16 0 0" startSegment="-2 -4 -6 -12 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-4 -8 -8 -16 0 0" startSegment="-2 -4 -6 -12 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-8 -16 -8 -16 0 0" startSegment="-10 -20 -6 -12 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-10 -20 -6 -12 0 0" startSegment="-12 -24 -8 -16 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 -8 -16 -2 -4" startSegment="-8 -16 -8 -16 0 0"/>
+    <Delete/>
+    <SelectManifestation point="6 12 -10 -20 0 0"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 -10 -20 0 0"/>
+    <Delete/>
+    <SelectManifestation point="-10 -20 -10 -20 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -10 -20 0 0" startSegment="-4 -8 -8 -16 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-10 -20 -10 -20 0 0" startSegment="-8 -16 -8 -16 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-12 -24 -8 -16 0 0" startSegment="-10 -20 -10 -20 0 0"/>
+    <Delete/>
+    <SelectManifestation point="2 4 -8 -16 -2 -4"/>
+    <Delete/>
+    <SelectManifestation point="-6 -12 -8 -16 -2 -4"/>
+    <Delete/>
+    <SelectManifestation point="2 4 -8 -16 2 4"/>
+    <Delete/>
+    <SelectManifestation point="-6 -12 -8 -16 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 -8 -16 2 4" startSegment="2 4 -6 -12 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 -8 -16 2 4" startSegment="-6 -12 -6 -12 4 8"/>
+    <Delete/>
+    <SelectManifestation point="2 4 6 12 4 8"/>
+    <Delete/>
+    <SelectManifestation point="-6 -12 6 12 4 8"/>
+    <Delete/>
+    <SelectManifestation point="8 16 4 8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 6 12 4 8" startSegment="4 8 4 8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 4 8 2 4" startSegment="4 8 4 8 4 8"/>
+    <Delete/>
+    <SelectManifestation point="4 8 4 8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 6 12 4 8" startSegment="-4 -8 4 8 4 8"/>
+    <Delete/>
+    <SelectManifestation point="0 0 4 8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 6 12 4 8" startSegment="-8 -16 4 8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 6 12 4 8" startSegment="0 0 4 8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 4 8 6 12" startSegment="4 8 4 8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="8 16 4 8 4 8" startSegment="6 12 4 8 6 12"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 4 8 6 12" startSegment="0 0 4 8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 4 8 6 12" startSegment="-4 -8 4 8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-8 -16 4 8 4 8" startSegment="-10 -20 4 8 6 12"/>
+    <Delete/>
+    <SelectManifestation endSegment="-12 -24 4 8 4 8" startSegment="-10 -20 4 8 6 12"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 2 4 4 8" startSegment="2 4 0 0 6 12"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 0 0 6 12" startSegment="-6 -12 2 4 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 0 0 6 12" startSegment="2 4 -2 -4 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 -2 -4 4 8" startSegment="-6 -12 0 0 6 12"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 0 0 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="8 16 -4 -8 4 8" startSegment="6 12 -4 -8 6 12"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -4 -8 6 12" startSegment="4 8 -4 -8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -4 -8 6 12" startSegment="0 0 -4 -8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -4 -8 6 12" startSegment="-4 -8 -4 -8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-12 -24 -4 -8 4 8" startSegment="-10 -20 -4 -8 6 12"/>
+    <Delete/>
+    <SelectManifestation endSegment="-8 -16 -4 -8 4 8" startSegment="-10 -20 -4 -8 6 12"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 4 8 2 4" startSegment="6 12 2 4 0 0"/>
+    <Delete/>
+    <SelectManifestation point="6 12 -4 -8 -2 -4"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 -4 -8 -2 -4"/>
+    <Delete/>
+    <SelectManifestation point="-10 -20 -4 -8 -2 -4"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -4 -8 -2 -4" startSegment="6 12 -6 -12 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-10 -20 -4 -8 -2 -4" startSegment="-10 -20 -2 -4 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -4 -8 -2 -4" startSegment="-2 -4 -6 -12 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-10 -20 -6 -12 0 0" startSegment="-10 -20 -4 -8 -2 -4"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -4 -8 -2 -4" startSegment="6 12 -2 -4 0 0"/>
+    <Delete/>
+    <SelectManifestation point="6 12 -2 -4 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -2 -4 0 0" startSegment="0 0 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 -2 -4 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-10 -20 -2 -4 0 0" startSegment="-8 -16 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation point="-10 -20 -2 -4 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -4 -8 -2 -4" startSegment="-2 -4 -2 -4 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-4 -8 0 0 0 0" startSegment="-2 -4 -2 -4 0 0"/>
+    <Delete/>
+    <SelectManifestation point="8 16 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation point="4 8 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 0 0 -2 -4" startSegment="0 0 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="8 16 0 0 0 0" startSegment="6 12 -2 -4 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="4 8 0 0 0 0" startSegment="6 12 -2 -4 0 0"/>
+    <Delete/>
+    <SelectManifestation point="-4 -8 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation point="-8 -16 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation point="-12 -24 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation point="6 12 2 4 0 0"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 2 4 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 2 4 0 0" startSegment="8 16 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 2 4 0 0" startSegment="4 8 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 2 4 0 0" startSegment="0 0 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 2 4 0 0" startSegment="-4 -8 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation point="-10 -20 2 4 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-8 -16 0 0 0 0" startSegment="-10 -20 2 4 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-10 -20 2 4 0 0" startSegment="-12 -24 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation point="6 12 4 8 -2 -4"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 4 8 -2 -4" startSegment="6 12 2 4 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 6 12 0 0" startSegment="-2 -4 4 8 -2 -4"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 4 8 -2 -4"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 4 8 -2 -4" startSegment="-2 -4 2 4 0 0"/>
+    <Delete/>
+    <SelectManifestation point="-10 -20 4 8 -2 -4"/>
+    <Delete/>
+    <SelectManifestation endSegment="-10 -20 6 12 0 0" startSegment="-10 -20 4 8 -2 -4"/>
+    <Delete/>
+    <SelectManifestation endSegment="-10 -20 4 8 -2 -4" startSegment="-10 -20 2 4 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 4 8 -2 -4" startSegment="6 12 6 12 0 0"/>
+    <Delete/>
+    <SelectManifestation point="6 12 6 12 0 0"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 6 12 0 0"/>
+    <Delete/>
+    <SelectManifestation point="-10 -20 6 12 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-10 -20 4 8 2 4" startSegment="-10 -20 6 12 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 6 12 0 0" startSegment="-2 -4 4 8 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 6 12 0 0" startSegment="6 12 4 8 2 4"/>
+    <Delete/>
+    <SelectManifestation point="6 12 4 8 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 4 8 2 4" startSegment="8 16 4 8 4 8"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 4 8 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 4 8 2 4" startSegment="-2 -4 2 4 0 0"/>
+    <Delete/>
+    <SelectManifestation point="-10 -20 4 8 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="-10 -20 2 4 0 0" startSegment="-10 -20 4 8 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 4 8 2 4" startSegment="0 0 4 8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-4 -8 4 8 4 8" startSegment="-2 -4 4 8 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="-10 -20 4 8 2 4" startSegment="-8 -16 4 8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-12 -24 4 8 4 8" startSegment="-10 -20 4 8 2 4"/>
+    <Delete/>
+    <SelectManifestation point="-4 -8 4 8 4 8"/>
+    <Delete/>
+    <SelectManifestation point="-8 -16 4 8 4 8"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-12 -24 4 8 4 8"/>
+    <SelectManifestation point="-12 -24 4 8 4 8"/>
+    <SelectManifestation endSegment="-8 -16 4 8 4 8" startSegment="-6 -12 2 4 4 8"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-12 -24 4 8 4 8"/>
+    <Delete/>
+    <SelectManifestation point="2 4 2 4 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 2 4 4 8" startSegment="2 4 0 0 2 4"/>
+    <Delete/>
+    <SelectManifestation point="-6 -12 2 4 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 0 0 2 4" startSegment="-6 -12 2 4 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 2 4 4 8" startSegment="-4 -8 4 8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 4 8 4 8" startSegment="2 4 2 4 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="4 8 4 8 4 8" startSegment="2 4 2 4 4 8"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 -4 -8 4 8"/>
+    <SelectManifestation endSegment="6 12 -4 -8 2 4" startSegment="4 8 -4 -8 4 8"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="4 8 -4 -8 4 8"/>
+    <Delete/>
+    <SelectManifestation point="-4 -8 -4 -8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-4 -8 -4 -8 4 8" startSegment="-6 -12 -2 -4 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 -6 -12 4 8" startSegment="0 0 -4 -8 4 8"/>
+    <Delete/>
+    <SelectManifestation point="-8 -16 -4 -8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-10 -20 -4 -8 2 4" startSegment="-8 -16 -4 -8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-12 -24 -4 -8 4 8" startSegment="-10 -20 -4 -8 2 4"/>
+    <Delete/>
+    <SelectManifestation point="-12 -24 -4 -8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 -6 -12 4 8" startSegment="-4 -8 -4 -8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 -6 -12 4 8" startSegment="4 8 -4 -8 4 8"/>
+    <Delete/>
+    <SelectManifestation point="2 4 -6 -12 4 8"/>
+    <Delete/>
+    <SelectManifestation point="-6 -12 -6 -12 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-8 -16 -4 -8 4 8" startSegment="-6 -12 -6 -12 4 8"/>
+    <Delete/>
+    <SelectManifestation point="8 16 -4 -8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-8 -16 -4 -8 4 8" startSegment="-6 -12 -2 -4 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 -4 -8 4 8" startSegment="2 4 -2 -4 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="4 8 -4 -8 4 8" startSegment="2 4 -2 -4 4 8"/>
+    <Delete/>
+    <SelectManifestation point="2 4 -2 -4 4 8"/>
+    <Delete/>
+    <SelectManifestation point="-6 -12 -2 -4 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 -2 -4 4 8" startSegment="-6 -12 0 0 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 -2 -4 4 8" startSegment="2 4 0 0 2 4"/>
+    <Delete/>
+    <SelectManifestation point="2 4 0 0 2 4"/>
+    <Delete/>
+    <SelectManifestation point="-6 -12 0 0 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 0 0 2 4" startSegment="-4 -8 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-8 -16 0 0 0 0" startSegment="-6 -12 0 0 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="4 8 0 0 0 0" startSegment="2 4 0 0 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 0 0 2 4" startSegment="0 0 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 0 0 -2 -4" startSegment="4 8 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation point="2 4 0 0 -2 -4"/>
+    <Delete/>
+    <SelectManifestation point="-6 -12 0 0 -2 -4"/>
+    <Delete/>
+    <SelectManifestation endSegment="-6 -12 0 0 -2 -4" startSegment="-4 -8 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-8 -16 0 0 0 0" startSegment="-6 -12 0 0 -2 -4"/>
+    <Delete/>
+    <SelectManifestation endSegment="-12 -24 0 0 0 0" startSegment="-10 -20 -2 -4 0 0"/>
+    <Delete/>
+    <SelectManifestation point="6 12 -4 -8 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -2 -4 0 0" startSegment="6 12 -4 -8 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -2 -4 0 0" startSegment="-2 -4 -4 -8 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="-10 -20 -2 -4 0 0" startSegment="-10 -20 -4 -8 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -6 -12 0 0" startSegment="6 12 -4 -8 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -6 -12 0 0" startSegment="-2 -4 -4 -8 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="-10 -20 -6 -12 0 0" startSegment="-10 -20 -4 -8 2 4"/>
+    <Delete/>
+    <SelectManifestation point="-10 -20 -4 -8 2 4"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 -4 -8 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="8 16 -4 -8 4 8" startSegment="6 12 -4 -8 2 4"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -4 -8 2 4" startSegment="0 0 -4 -8 4 8"/>
+    <Delete/>
+    <SelectManifestation endSegment="-4 -8 -4 -8 4 8" startSegment="-2 -4 -4 -8 2 4"/>
+    <Delete/>
+    <SelectManifestation point="6 12 -6 -12 0 0"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 -6 -12 0 0"/>
+    <Delete/>
+    <SelectManifestation point="-10 -20 -6 -12 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -10 -20 16 32" startSegment="-4 -8 -8 -16 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="-10 -20 -10 -20 16 32" startSegment="-8 -16 -8 -16 16 32"/>
+    <Delete/>
+    <SelectManifestation point="6 12 -2 -4 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -4 -8 10 20" startSegment="6 12 -2 -4 8 16"/>
+    <Delete/>
+    <SelectManifestation point="6 12 -4 -8 10 20"/>
+    <Delete/>
+    <SelectManifestation endSegment="4 8 -4 -8 12 24" startSegment="6 12 -4 -8 10 20"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -2 -4 8 16" startSegment="4 8 0 0 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -2 -4 8 16" startSegment="6 12 -4 -8 6 12"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -4 -8 10 20" startSegment="6 12 -6 -12 8 16"/>
+    <Delete/>
+    <SelectManifestation point="6 12 -4 -8 6 12"/>
+    <Delete/>
+    <SelectManifestation point="6 12 -6 -12 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="8 16 0 0 8 16" startSegment="6 12 -2 -4 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="8 16 -4 -8 12 24" startSegment="6 12 -4 -8 10 20"/>
+    <Delete/>
+    <SelectManifestation point="8 16 0 0 8 16"/>
+    <Delete/>
+    <SelectManifestation point="8 16 -4 -8 12 24"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 2 4 8 16" startSegment="8 16 0 0 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="8 16 -4 -8 12 24" startSegment="6 12 -4 -8 14 28"/>
+    <Delete/>
+    <SelectManifestation endSegment="4 8 0 0 8 16" startSegment="2 4 0 0 6 12"/>
+    <Delete/>
+    <SelectManifestation endSegment="4 8 -4 -8 12 24" startSegment="2 4 -6 -12 12 24"/>
+    <Delete/>
+    <SelectManifestation point="4 8 -4 -8 12 24"/>
+    <Delete/>
+    <SelectManifestation point="4 8 0 0 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -4 -8 14 28" startSegment="4 8 -4 -8 12 24"/>
+    <Delete/>
+    <SelectManifestation point="6 12 4 8 6 12"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 4 8 6 12" startSegment="6 12 2 4 8 16"/>
+    <Delete/>
+    <SelectManifestation point="6 12 2 4 8 16"/>
+    <Delete/>
+    <SelectManifestation point="6 12 -4 -8 14 28"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 4 8 10 20" startSegment="6 12 2 4 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 6 12 8 16" startSegment="6 12 4 8 6 12"/>
+    <Delete/>
+    <SelectManifestation point="6 12 6 12 8 16"/>
+    <Delete/>
+    <SelectManifestation point="6 12 -2 -4 16 32"/>
+    <Delete/>
+    <SelectManifestation point="6 12 4 8 10 20"/>
+    <Delete/>
+    <SelectManifestation endSegment="8 16 4 8 12 24" startSegment="6 12 4 8 10 20"/>
+    <Delete/>
+    <SelectManifestation point="8 16 4 8 12 24"/>
+    <Delete/>
+    <SelectManifestation endSegment="8 16 4 8 12 24" startSegment="6 12 4 8 14 28"/>
+    <Delete/>
+    <SelectManifestation point="6 12 4 8 14 28"/>
+    <Delete/>
+    <SelectManifestation point="6 12 2 4 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 4 8 14 28" startSegment="4 8 4 8 12 24"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 2 4 16 32" startSegment="4 8 0 0 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 4 8 10 20" startSegment="4 8 4 8 12 24"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -2 -4 16 32" startSegment="4 8 0 0 16 32"/>
+    <Delete/>
+    <SelectManifestation point="4 8 4 8 12 24"/>
+    <Delete/>
+    <SelectManifestation point="4 8 0 0 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 2 4 12 24" startSegment="4 8 4 8 12 24"/>
+    <Delete/>
+    <SelectManifestation endSegment="4 8 0 0 16 32" startSegment="2 4 0 0 14 28"/>
+    <Delete/>
+    <SelectManifestation endSegment="4 8 4 8 12 24" startSegment="2 4 6 12 12 24"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 0 0 18 36" startSegment="4 8 0 0 16 32"/>
+    <Delete/>
+    <SelectManifestation point="2 4 6 12 12 24"/>
+    <Delete/>
+    <SelectManifestation point="2 4 0 0 18 36"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 6 12 12 24" startSegment="0 0 4 8 12 24"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 0 0 18 36" startSegment="0 0 0 0 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="4 8 -4 -8 12 24" startSegment="2 4 -2 -4 12 24"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 0 0 10 20" startSegment="4 8 0 0 8 16"/>
+    <Delete/>
+    <SelectManifestation point="2 4 0 0 10 20"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 2 4 12 24" startSegment="2 4 0 0 10 20"/>
+    <Delete/>
+    <SelectManifestation point="2 4 -2 -4 12 24"/>
+    <Delete/>
+    <SelectManifestation point="2 4 2 4 12 24"/>
+    <Delete/>
+    <SelectManifestation point="2 4 0 0 14 28"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 2 4 12 24" startSegment="0 0 4 8 12 24"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 0 0 16 32" startSegment="2 4 0 0 14 28"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 0 0 10 20" startSegment="0 0 0 0 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 -4 -8 12 24" startSegment="2 4 -2 -4 12 24"/>
+    <Delete/>
+    <SelectManifestation point="2 4 0 0 6 12"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 0 0 6 12" startSegment="0 0 0 0 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 -6 -12 12 24" startSegment="0 0 -4 -8 12 24"/>
+    <Delete/>
+    <SelectManifestation point="2 4 -6 -12 12 24"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 2 4 8 16" startSegment="4 8 0 0 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 0 0 14 28" startSegment="2 4 -2 -4 12 24"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 0 0 14 28" startSegment="2 4 2 4 12 24"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 4 -2 -4 12 24" startSegment="2 4 0 0 10 20"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 6 12 8 16" startSegment="6 12 4 8 10 20"/>
+    <Delete/>
+    <SelectManifestation endSegment="6 12 -6 -12 8 16" startSegment="6 12 -4 -8 6 12"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -4 -8 18 36" startSegment="-2 -4 -2 -4 16 32"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 -4 -8 18 36"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 -6 -12 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -6 -12 16 32" startSegment="-2 -4 -4 -8 14 28"/>
+    <Delete/>
+    <SelectManifestation endSegment="-4 -8 0 0 16 32" startSegment="-2 -4 -2 -4 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -4 -8 14 28" startSegment="-4 -8 -4 -8 12 24"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 -4 -8 14 28"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 -2 -4 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -4 -8 14 28" startSegment="0 0 -4 -8 12 24"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 0 0 16 32" startSegment="-2 -4 -2 -4 16 32"/>
+    <Delete/>
+    <SelectManifestation point="0 0 -4 -8 12 24"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 -4 -8 12 24" startSegment="-2 -4 -4 -8 10 20"/>
+    <Delete/>
+    <SelectManifestation point="0 0 0 0 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 2 4 16 32" startSegment="0 0 0 0 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="-4 -8 0 0 16 32" startSegment="-2 -4 2 4 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="-4 -8 -4 -8 12 24" startSegment="-2 -4 -4 -8 10 20"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 -6 -12 8 16"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 -4 -8 10 20"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -6 -12 8 16" startSegment="-2 -4 -4 -8 6 12"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -4 -8 10 20" startSegment="-2 -4 -2 -4 8 16"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 4 8 18 36"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 2 4 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 4 8 14 28" startSegment="-2 -4 2 4 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 6 12 16 32" startSegment="-2 -4 4 8 18 36"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 -4 -8 6 12"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 -2 -4 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -2 -4 8 16" startSegment="-4 -8 0 0 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 2 4 8 16" startSegment="-4 -8 0 0 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="-4 -8 4 8 12 24" startSegment="-2 -4 4 8 10 20"/>
+    <Delete/>
+    <SelectManifestation endSegment="-4 -8 4 8 12 24" startSegment="-2 -4 4 8 14 28"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 4 8 14 28"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 6 12 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 4 8 14 28" startSegment="0 0 4 8 12 24"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 0 0 8 16" startSegment="-2 -4 -2 -4 8 16"/>
+    <Delete/>
+    <SelectManifestation point="0 0 0 0 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 0 0 8 16" startSegment="-2 -4 2 4 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 4 8 12 24" startSegment="-2 -4 4 8 10 20"/>
+    <Delete/>
+    <SelectManifestation point="0 0 4 8 12 24"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 4 8 10 20"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 4 8 10 20" startSegment="-2 -4 6 12 8 16"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 6 12 8 16"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 4 8 6 12"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 2 4 8 16" startSegment="-2 -4 4 8 6 12"/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 2 4 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 6 12 8 16" startSegment="-2 -4 4 8 6 12"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -2 -4 16 32" startSegment="-2 -4 -4 -8 14 28"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -6 -12 8 16" startSegment="-2 -4 -4 -8 10 20"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -2 -4 8 16" startSegment="-2 -4 -4 -8 6 12"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 4 8 10 20" startSegment="-2 -4 2 4 8 16"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 6 12 16 32" startSegment="-2 -4 4 8 14 28"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 4 8 18 36" startSegment="-2 -4 2 4 16 32"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -4 -4 -8 18 36" startSegment="-2 -4 -6 -12 16 32"/>
+    <Delete/>
+    <StrutCreation anchor="-12 -24 0 0 16 32" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-12 -24 -4 -8 12 24" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-14 -28 -2 -4 12 24" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-14 -28 0 0 14 28" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-12 -24 4 8 12 24" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-14 -28 -2 -4 12 24" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-14 -28 2 4 12 24" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-14 -28 0 0 10 20" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-12 -24 0 0 16 32" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-14 -28 0 0 14 28" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-16 -32 0 0 16 32" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-14 -28 -2 -4 12 24" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-12 -24 -4 -8 12 24" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-14 -28 -6 -12 12 24" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-12 -24 4 8 12 24" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-14 -28 2 4 12 24" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-14 -28 6 12 12 24" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-14 -28 0 0 10 20" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-16 -32 0 0 8 16" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-12 -24 0 0 8 16" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-10 -20 6 12 8 16" index="12" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation point="-12 -24 6 12 8 16"/>
+    <SelectManifestation endSegment="-12 -24 6 12 8 16" startSegment="-10 -20 6 12 8 16"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-12 -24 -4 -8 12 24"/>
+    <SelectManifestation point="-16 -32 -4 -8 12 24"/>
+    <EndBlock/>
+    <setItemColor blue="51" green="51" red="51"/>
+    <BeginBlock/>
+    <SelectManifestation point="-10 -20 -2 -4 8 16"/>
+    <SelectManifestation point="-14 -28 0 0 10 20"/>
+    <EndBlock/>
+    <setItemColor blue="51" green="51" red="51"/>
+    <BeginBlock/>
+    <SelectManifestation point="-14 -28 0 0 6 12"/>
+    <SelectManifestation point="-10 -20 2 4 8 16"/>
+    <EndBlock/>
+    <setItemColor blue="51" green="51" red="51"/>
+    <BeginBlock/>
+    <SelectManifestation point="-6 -12 0 0 10 20"/>
+    <SelectManifestation point="-6 -12 0 0 6 12"/>
+    <SelectManifestation point="-10 -20 -6 -12 8 16"/>
+    <SelectManifestation point="-10 -20 6 12 8 16"/>
+    <SelectManifestation point="-8 -16 -4 -8 12 24"/>
+    <EndBlock/>
+    <setItemColor blue="51" green="51" red="51"/>
+    <BeginBlock/>
+    <SelectManifestation point="-4 -8 -4 -8 12 24"/>
+    <SelectManifestation point="-6 -12 0 0 14 28"/>
+    <SelectManifestation point="-6 -12 0 0 18 36"/>
+    <SelectManifestation point="-4 -8 4 8 12 24"/>
+    <SelectManifestation point="-8 -16 4 8 12 24"/>
+    <EndBlock/>
+    <setItemColor blue="51" green="51" red="51"/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="IGNORE" struts="SELECT"/>
+    <setItemColor blue="0" green="153" red="204"/>
+    <BeginBlock/>
+    <SelectManifestation point="-14 -28 0 0 14 28"/>
+    <SelectManifestation point="-14 -28 0 0 18 36"/>
+    <SelectManifestation point="-10 -20 -6 -12 16 32"/>
+    <SelectManifestation point="-10 -20 -2 -4 16 32"/>
+    <SelectManifestation point="-16 -32 4 8 12 24"/>
+    <SelectManifestation point="-12 -24 4 8 12 24"/>
+    <EndBlock/>
+    <setItemColor blue="51" green="51" red="51"/>
+    <BeginBlock/>
+    <SelectManifestation point="-10 -20 2 4 16 32"/>
+    <SelectManifestation point="-10 -20 6 12 16 32"/>
+    <EndBlock/>
+    <setItemColor blue="51" green="51" red="51"/>
+    <BeginBlock/>
+    <SelectManifestation point="-6 -12 0 0 18 36"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-4 -8 0 0 16 32"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-4 -8 -4 -8 12 24"/>
+    <SelectManifestation endSegment="-6 -12 -6 -12 12 24" startSegment="-4 -8 -4 -8 12 24"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-6 -12 -6 -12 12 24" startSegment="-4 -8 -4 -8 12 24"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-6 -12 6 12 12 24" startSegment="-4 -8 4 8 12 24"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-4 -8 0 0 8 16" startSegment="-6 -12 0 0 6 12"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-10 -20 4 8 6 12" startSegment="-10 -20 6 12 8 16"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-10 -20 6 12 16 32" startSegment="-10 -20 4 8 18 36"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-16 -32 4 8 12 24" startSegment="-14 -28 6 12 12 24"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-14 -28 0 0 6 12" startSegment="-16 -32 0 0 8 16"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-16 -32 -4 -8 12 24" startSegment="-14 -28 -6 -12 12 24"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-10 -20 -6 -12 8 16" startSegment="-10 -20 -4 -8 6 12"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-14 -28 0 0 18 36" startSegment="-16 -32 0 0 16 32"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-10 -20 -4 -8 18 36" startSegment="-10 -20 -6 -12 16 32"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-14 -28 0 0 10 20"/>
+    <SelectManifestation point="-10 -20 4 8 10 20"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-12 -24 0 0 8 16"/>
+    <SelectManifestation point="-8 -16 0 0 8 16"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-10 -20 -2 -4 8 16"/>
+    <SelectManifestation point="-6 -12 -2 -4 12 24"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-6 -12 0 0 10 20"/>
+    <SelectManifestation point="-10 -20 4 8 10 20"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-6 -12 -2 -4 12 24"/>
+    <SelectManifestation point="-6 -12 2 4 12 24"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-8 -16 -4 -8 12 24"/>
+    <SelectManifestation point="-8 -16 0 0 16 32"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-12 -24 -4 -8 12 24"/>
+    <SelectManifestation point="-12 -24 0 0 16 32"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-14 -28 -2 -4 12 24"/>
+    <SelectManifestation point="-10 -20 -2 -4 8 16"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-10 -20 2 4 16 32"/>
+    <SelectManifestation point="-14 -28 2 4 12 24"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-14 -28 0 0 14 28"/>
+    <SelectManifestation point="-14 -28 0 0 10 20"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-10 -20 -4 -8 14 28"/>
+    <SelectManifestation point="-10 -20 -4 -8 10 20"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-10 -20 4 8 10 20"/>
+    <SelectManifestation point="-10 -20 4 8 14 28"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-10 -20 2 4 16 32"/>
+    <SelectManifestation point="-10 -20 -2 -4 16 32"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-6 -12 2 4 12 24"/>
+    <SelectManifestation point="-10 -20 2 4 16 32"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-36 -60 6 10 42 70"/>
+    <DeselectAll/>
+    <SelectManifestation point="-30 -50 0 0 48 80"/>
+    <SelectManifestation endSegment="-36 -60 0 0 48 80" startSegment="-30 -50 -6 -10 48 80"/>
+    <SelectManifestation endSegment="-30 -50 -6 -10 48 80" startSegment="-24 -40 0 0 48 80"/>
+    <SelectManifestation endSegment="-30 -50 6 10 48 80" startSegment="-24 -40 0 0 48 80"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-36 -60 0 0 48 80" startSegment="-30 -50 6 10 48 80"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-30 -50 -6 -10 48 80" startSegment="-24 -40 0 0 48 80"/>
+    <SelectManifestation endSegment="-36 -60 0 0 48 80" startSegment="-30 -50 -6 -10 48 80"/>
+    <SelectManifestation endSegment="-36 -60 0 0 48 80" startSegment="-30 -50 6 10 48 80"/>
+    <SelectManifestation endSegment="-30 -50 6 10 48 80" startSegment="-24 -40 0 0 48 80"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <SelectManifestation point="-30 -50 0 0 48 80"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="-30 -50 -6 -10 48 80"/>
+    <SelectManifestation point="-36 -60 0 0 48 80"/>
+    <SelectManifestation point="-24 -40 0 0 48 80"/>
+    <SelectManifestation point="-30 -50 6 10 48 80"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="-30 -50 -6 -10 24 40"/>
+    <SelectManifestation point="-24 -40 0 0 24 40"/>
+    <SelectManifestation point="-30 -50 6 10 24 40"/>
+    <SelectManifestation point="-30 -50 0 0 24 40"/>
+    <SelectManifestation point="-36 -60 0 0 24 40"/>
+    <SelectManifestation endSegment="-36 -60 0 0 24 40" startSegment="-30 -50 -6 -10 24 40"/>
+    <SelectManifestation endSegment="-30 -50 -6 -10 24 40" startSegment="-24 -40 0 0 24 40"/>
+    <SelectManifestation endSegment="-24 -40 0 0 24 40" startSegment="-30 -50 6 10 24 40"/>
+    <SelectManifestation endSegment="-30 -50 6 10 24 40" startSegment="-36 -60 0 0 24 40"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="-42 -70 -6 -10 36 60"/>
+    <SelectManifestation point="-42 -70 0 0 36 60"/>
+    <SelectManifestation endSegment="-42 -70 0 0 30 50" startSegment="-42 -70 -6 -10 36 60"/>
+    <SelectManifestation point="-42 -70 0 0 30 50"/>
+    <SelectManifestation endSegment="-42 -70 0 0 42 70" startSegment="-42 -70 -6 -10 36 60"/>
+    <SelectManifestation point="-42 -70 0 0 42 70"/>
+    <SelectManifestation endSegment="-42 -70 6 10 36 60" startSegment="-42 -70 0 0 42 70"/>
+    <SelectManifestation point="-42 -70 6 10 36 60"/>
+    <SelectManifestation endSegment="-42 -70 0 0 30 50" startSegment="-42 -70 6 10 36 60"/>
+    <EndBlock/>
+    <setItemColor blue="51" green="153" red="0"/>
+    <BeginBlock/>
+    <SelectManifestation point="-18 -30 0 0 36 60"/>
+    <DeselectAll/>
+    <SelectManifestation point="-36 -60 -12 -20 36 60"/>
+    <SelectManifestation point="-24 -40 -12 -20 36 60"/>
+    <SelectManifestation point="-30 -50 -12 -20 42 70"/>
+    <SelectManifestation point="-30 -50 -12 -20 30 50"/>
+    <SelectManifestation endSegment="-24 -40 -12 -20 36 60" startSegment="-30 -50 -12 -20 30 50"/>
+    <SelectManifestation endSegment="-36 -60 -12 -20 36 60" startSegment="-30 -50 -12 -20 30 50"/>
+    <SelectManifestation endSegment="-36 -60 -12 -20 36 60" startSegment="-30 -50 -12 -20 42 70"/>
+    <SelectManifestation endSegment="-30 -50 -12 -20 42 70" startSegment="-24 -40 -12 -20 36 60"/>
+    <EndBlock/>
+    <setItemColor blue="255" green="51" red="0"/>
+    <BeginBlock/>
+    <SelectManifestation point="-36 -60 12 20 36 60"/>
+    <SelectManifestation point="-24 -40 12 20 36 60"/>
+    <SelectManifestation point="-30 -50 12 20 42 70"/>
+    <SelectManifestation point="-30 -50 12 20 36 60"/>
+    <SelectManifestation point="-30 -50 12 20 30 50"/>
+    <SelectManifestation point="-30 -50 -12 -20 36 60"/>
+    <SelectManifestation endSegment="-36 -60 12 20 36 60" startSegment="-30 -50 12 20 42 70"/>
+    <SelectManifestation endSegment="-30 -50 12 20 30 50" startSegment="-24 -40 12 20 36 60"/>
+    <SelectManifestation endSegment="-30 -50 12 20 42 70" startSegment="-24 -40 12 20 36 60"/>
+    <SelectManifestation endSegment="-36 -60 12 20 36 60" startSegment="-30 -50 12 20 30 50"/>
+    <EndBlock/>
+    <setItemColor blue="255" green="51" red="0"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-42 -70 -6 -10 36 60" startSegment="-36 -60 -12 -20 36 60"/>
+    <SelectManifestation endSegment="-30 -50 -12 -20 30 50" startSegment="-30 -50 -6 -10 24 40"/>
+    <SelectManifestation endSegment="-24 -40 0 0 24 40" startSegment="-18 -30 0 0 30 50"/>
+    <SelectManifestation endSegment="-42 -70 0 0 42 70" startSegment="-36 -60 0 0 48 80"/>
+    <SelectManifestation endSegment="-30 -50 6 10 24 40" startSegment="-30 -50 12 20 30 50"/>
+    <SelectManifestation endSegment="-42 -70 6 10 36 60" startSegment="-36 -60 12 20 36 60"/>
+    <EndBlock/>
+    <setItemColor blue="255" green="255" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-42 -70 0 0 42 70" startSegment="-42 -70 -6 -10 36 60"/>
+    <DeselectAll/>
+    <SelectManifestation point="-18 -30 -6 -10 36 60"/>
+    <SelectManifestation endSegment="-24 -40 0 0 48 80" startSegment="-18 -30 0 0 42 70"/>
+    <DeselectAll/>
+    <SelectManifestation point="-18 -30 6 10 36 60"/>
+    <SelectManifestation point="-18 -30 0 0 30 50"/>
+    <SelectManifestation point="-18 -30 0 0 36 60"/>
+    <SelectManifestation point="-18 -30 -6 -10 36 60"/>
+    <SelectManifestation endSegment="-18 -30 0 0 42 70" startSegment="-18 -30 -6 -10 36 60"/>
+    <SelectManifestation endSegment="-18 -30 6 10 36 60" startSegment="-18 -30 0 0 42 70"/>
+    <SelectManifestation point="-18 -30 0 0 42 70"/>
+    <EndBlock/>
+    <setItemColor blue="51" green="153" red="0"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-18 -30 -6 -10 36 60" startSegment="-18 -30 0 0 30 50"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-18 -30 6 10 36 60" startSegment="-18 -30 0 0 30 50"/>
+    <SelectManifestation endSegment="-18 -30 -6 -10 36 60" startSegment="-18 -30 0 0 30 50"/>
+    <EndBlock/>
+    <setItemColor blue="51" green="153" red="0"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-24 -40 -12 -20 36 60" startSegment="-18 -30 -6 -10 36 60"/>
+    <SelectManifestation endSegment="-30 -50 -6 -10 48 80" startSegment="-30 -50 -12 -20 42 70"/>
+    <SelectManifestation endSegment="-24 -40 0 0 48 80" startSegment="-18 -30 0 0 42 70"/>
+    <SelectManifestation endSegment="-30 -50 12 20 42 70" startSegment="-30 -50 6 10 48 80"/>
+    <SelectManifestation endSegment="-24 -40 12 20 36 60" startSegment="-18 -30 6 10 36 60"/>
+    <EndBlock/>
+    <setItemColor blue="255" green="255" red="255"/>
+    <SelectManifestation endSegment="-42 -70 -6 -10 36 60" startSegment="-36 -60 -12 -20 36 60"/>
+    <setItemColor blue="255" green="255" red="255"/>
+    <SelectManifestation endSegment="-36 -60 0 0 24 40" startSegment="-42 -70 0 0 30 50"/>
+    <setItemColor blue="255" green="255" red="255"/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="803.4214477539062" far="1606.84130859375" near="2.008553981781006" parallel="false" stereoAngle="0.0" width="361.53973388671875">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.7926042675971985" y="0.39802590012550354" z="-0.46186646819114685"/>
+      <LookDirection x="0.42008447647094727" y="-0.1925431787967682" z="-0.8868077993392944"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+    <Direction color="0,118,149" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+    <Direction color="18,205,148" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+    <Direction color="30,30,30" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+    <Direction color="0,141,54" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+    <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+    <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+    <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+    <Direction color="240,160,0" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+    <Direction color="175,0,0" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="108,0,198" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="icosahedral" renderingStyle="printable">
+      <Direction color="0,118,149" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="0,141,54" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+      <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+      <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+      <Direction color="175,0,0" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+      <Direction color="30,30,30" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+      <Direction color="230,245,62" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+      <Direction color="240,160,0" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+      <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+      <Direction color="18,205,148" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+      <Direction color="116,195,0" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+      <Direction color="136,37,0" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+      <Direction color="108,0,198" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+      <Direction color="220,76,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+      <Direction color="0,0,153" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>
